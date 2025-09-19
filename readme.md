@@ -1,7 +1,7 @@
 #Character Digitizer - Wirral Code Club 09-19-25
 hello@wirralcodeclub.org
 
-A prototype that lets users photograph their character drawings with a connected camera, automatically uploads them to a storage backend, and provides a downloadable link or QR code.
+A prototype that lets users photograph their character drawings with a standalone pc and connected camera, automatically uploads them to a storage backend, and provides a downloadable link or QR code.
 
 - Camera capture on the PC.
 - Upload to a remote web server.
